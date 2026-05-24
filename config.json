@@ -1,0 +1,8 @@
+{
+    "name": "authcontroller-service",
+    "version": "1.0.150",
+    "private": false,
+    "environment": "production",
+    "build_id": 320,
+    "allow_public_access": true
+}
